@@ -1,5 +1,6 @@
 Git is amazing!
 Just follow below  steps to upload your code:
+
 1. Need to login to github and create the repository by giving name to folder.
 2. Follow the steps given with some modifications as shown below:
   i.  Go to folder path where the code resides from the terminal/command line.
@@ -10,3 +11,4 @@ Just follow below  steps to upload your code:
     4) git remote add origin https://github.com/BhargaviBV/PhdWorkMCR.git (the link to be copied is the one that comes after creating repository)
     5)git push -u origin master
     Thats it ! Now go to the URL https://github.com/BhargaviBV/PhdWorkMCR.git and find ur code live!!
+Reference: https://youtu.be/ZPDnCfMhbA8
