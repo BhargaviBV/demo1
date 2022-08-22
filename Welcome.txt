@@ -1,6 +1,6 @@
 Git is amazing!
-Just follow below  steps to upoad your code*:
-1. Need to login and create the repository by giving name to folder.
+Just follow below  steps to upload your code:
+1. Need to login to github and create the repository by giving name to folder.
 2. Follow the steps given with some modifications as shown below:
   i.  Go to folder path where the code resides from the terminal/command line.
   ii. Type each of following commands:
